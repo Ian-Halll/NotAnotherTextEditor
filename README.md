@@ -11,7 +11,7 @@ A simple text editor which uses webpack and IndexedDB to dynamically save the co
 - [Questions](#questions)
       
 ## Installation
-To install, please visit the publicly hosted website at, from there, you can simply install using the button in the top left corner.
+To install, please visit the publicly hosted website at https://notanothertexteditor.herokuapp.com/, from there, you can simply install using the button in the top left corner.
       
 ## Usage
 The app is a straightforward text editor, useful for writing out notes, code snippets, or drafting documentation for a project.
